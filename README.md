@@ -8,7 +8,7 @@ Gem Shop is an intentionally vulnerable Ruby on Rails 8 project for teaching dev
 
 Do not deploy this project on your production network. Attackers can exploit vulnerabilities in Gem Shop to access the underlying server, and can use this access to further compromise servers on your network. 
 
-## Setup
+## Setup.
 
 Requirements:
 
